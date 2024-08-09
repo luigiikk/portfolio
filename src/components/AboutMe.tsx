@@ -37,7 +37,7 @@ export const AboutMe = () => {
       <div className="relative ">
         <Image src={"/image.png"} alt="" width={310} height={310} unoptimized className="rounded-full"/>
         <p className="p-4 w-fit text-base leading-tight bg-blue-500 rounded-xl text-black absolute -bottom-[0.75rem] sm:bottom-3">
-          <span className="text-4xl">1+</span>
+          <span className="text-2xl">1+</span>
           <br />
           anos de experiência
         </p>
